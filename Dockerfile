@@ -1,4 +1,4 @@
-FROM zu1k/deepl:latest
+FROM kanikig/deepl-bk:latest
 
 EXPOSE 80
 
